@@ -9,7 +9,7 @@ const g7 = document.querySelector("#g7");
 const g8 = document.querySelector("#g8");
 const g9 = document.querySelector("#g9");
 const opscr = document.querySelector("#opscr");
-const res = document.querySelector("#reset");
+const res = document.querySelector("#reset"); 
 
 res.addEventListener("click",()=>{
     opscr.innerHTML = "";
