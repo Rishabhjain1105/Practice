@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(40, 88, 166);
+}
+
+#maindiv{
+    margin-top: 15%;
+    margin-left: 45%;
+    height: 150px;
+    width: 150px;
+    background-color: antiquewhite;
+    border-radius: 5%;
+}
+
+#block{
+    width: 20px;
+    background-color: antiquewhite;
+    border-color: black;
+    border-width: 2px;
+    margin: auto;
+}
+
+button{
+    width:30%;
+    background-color: rgb(43, 113, 174);
+}
